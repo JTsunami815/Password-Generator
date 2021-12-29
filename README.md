@@ -5,3 +5,8 @@ ___
 
 ## What it can do:
 Using Python to build a basic password generator that includes Upper and lower case letters, allowed symbols and numbers.
+
+## Python Skill Used:
+* For Loops
+* Range
+* Code Blocks
